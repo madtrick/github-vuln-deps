@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "https-proxy-agent": "^0.3.6"
+    "newrelic": "^2.9.1"
   }
 }
